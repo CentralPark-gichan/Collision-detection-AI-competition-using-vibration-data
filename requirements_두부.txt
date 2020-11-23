@@ -1,0 +1,4 @@
+keras_version : 2.1.5
+numpy_version : 1.16.6
+pandas_version : 0.25.3
+tensorflow_version :1.8.0
